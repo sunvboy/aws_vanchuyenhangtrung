@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "value": "HAN",
+      "label": "Hà Nội, Việt Nam",
+      "desc": "Hà Nội",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "SGN",
+      "label": "Hồ Chí Minh, Việt Nam",
+      "desc": "Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "DAD",
+      "label": "Đà Nẵng, Việt Nam",
+      "desc": "Đà Nẵng",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "PQC",
+      "label": "Phú Quốc, Việt Nam",
+      "desc": "Phú Quốc",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "CXR",
+      "label": "Nha Trang, Việt Nam",
+      "desc": "Nha Trang",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "BMV",
+      "label": "Buôn Ma Thuột, Việt Nam",
+      "desc": "Đắk Lắk",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "CAH",
+      "label": "Cà Mau, Việt Nam",
+      "desc": "Cà Mau",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "VCA",
+      "label": "Cần Thơ, Việt Nam",
+      "desc": "Cần Thơ",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "VCS",
+      "label": "Côn Đảo, Việt Nam",
+      "desc": "Côn Đảo",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "VCL",
+      "label": "Chu Lai, Việt Nam",
+      "desc": "Chu Lai",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "DLI",
+      "label": "Đà Lạt, Việt Nam",
+      "desc": "Đà Lạt",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "DIN",
+      "label": "Điện Biên, Việt Nam",
+      "desc": "Điện Biên",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "HPH",
+      "label": "Hải Phòng, Việt Nam",
+      "desc": "Hải Phòng",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "VDH",
+      "label": "Đồng Hới, Việt Nam",
+      "desc": "Đồng Hới",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "HUI",
+      "label": "Huế, Việt Nam",
+      "desc": "Huế",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "PXU",
+      "label": "Pleiku, Việt Nam",
+      "desc": "Pleiku",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "UIH",
+      "label": "Quy Nhơn, Việt Nam",
+      "desc": "Quy Nhơn",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "VKG",
+      "label": "Rạch Giá, Việt Nam",
+      "desc": "Rạch Giá",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "THD",
+      "label": "Thanh Hóa, Việt Nam",
+      "desc": "Thanh Hóa",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "TBB",
+      "label": "Tuy Hòa, Việt Nam",
+      "desc": "Tuy Hòa",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "VDO",
+      "label": "Quảng Ninh, Việt Nam",
+      "desc": "Quảng Ninh",
+      "country": "Việt Nam"
+    },
+    {
+      "value": "VII",
+      "label": "Vinh, Việt Nam",
+      "desc": "Nghệ An",
+      "country": "Việt Nam"
+    }
+  ]
+}

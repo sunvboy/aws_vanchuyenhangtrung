@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'category_customer' => 'Nhóm thành viên 会员组 *',
+    'index_category_customer' => 'Danh sách nhóm thành viên 小組成員名單',
+    'create_category_customer' => 'Thêm mới nhóm thành viên 添加新成員組',
+    'update_category_customer' => 'Cập nhập nhóm thành viên 會員群更新',
+    'index_customer' => 'Danh sách khách hàng 客戶名單',
+    'create_customer' => 'Thêm mới thành viên 添加新成員',
+    'update_customer' => 'Cập nhập thành viên 會員更新',
+    'code_customer' => 'Mã KH 客户码 *',
+    'fullname' => 'Họ và tên 名字 *',
+    'phone' => 'Số điện thoại 电话 *',
+    'address' => 'Địa chỉ 地址',
+    'create' => 'Thêm mới 加入',
+    'update' => 'Cập nhập 更新',
+    'title' => 'Tiêu đề 標題',
+    'created' => 'Ngày đăng 提交日期',
+    'code_deliveries' => 'CODE 交貨單',
+    'weight' => 'CÂN NẶNG(KG) 重量',
+    'code_bill' => 'Mã vận đơn 提單代碼',
+    'note' => 'Ghi chú 筆記',
+    'total_weight' => 'Tổng cân nặng 總重量',
+    'select_customer' => 'Chọn khách hàng 選擇客戶',
+];
